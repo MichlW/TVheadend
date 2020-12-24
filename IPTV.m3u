@@ -1,0 +1,132 @@
+#EXTM3U
+#EXTINF:-1 tvg-chno="1" tvg-name="Das Erste HD" tvg-id="ARD.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/daserstehd.png",Das Erste HD
+rtp://87.141.215.251@232.0.20.35:10000
+
+#EXTINF:-1 tvg-chno="2" tvg-name="ZDF HD" tvg-id="ZDF.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfhd.png",ZDF HD
+rtp://87.141.215.251@232.0.20.234:10000
+
+#EXTINF:-1 tvg-chno="3" tvg-name="RTL SD" tvg-id="RTL.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl.png",RTL
+rtp://87.141.215.251@232.0.10.135:10000
+
+#EXTINF:-1 tvg-chno="4" tvg-name="SAT.1 SD" tvg-id="Sat1.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1.png",SAT.1
+rtp://87.141.215.251@232.0.10.146:10000
+
+#EXTINF:-1 tvg-chno="5" tvg-name="ProSieben SD" tvg-id="Pro7.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/prosieben.png",ProSieben
+rtp://87.141.215.251@232.0.10.120:10000
+
+#EXTINF:-1 tvg-chno="6" tvg-name="VOX SD" tvg-id="Vox.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/vox.png",VOX
+rtp://87.141.215.251@232.0.10.221:10000
+
+#EXTINF:-1 tvg-chno="7" tvg-name="Kabel Eins SD" tvg-id="Kabel.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/kabeleins.png",Kabel Eins
+rtp://87.141.215.251@232.0.10.82:10000
+
+#EXTINF:-1 tvg-chno="8" tvg-name="RTLZWEI SD" tvg-id="RTL2.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtl2.png",RTLZWEI
+rtp://87.141.215.251@232.0.10.140:10000
+
+#EXTINF:-1 tvg-chno="9" tvg-name="Super RTL SD" tvg-id="SuperRTL.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/superrtl.png",Super RTL
+rtp://87.141.215.251@232.0.10.201:10000
+
+#EXTINF:-1 tvg-chno="10" tvg-name="KiKA HD" tvg-id="Kika.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/kikahd.png",KiKA HD
+rtp://87.141.215.251@232.0.20.85:10000
+
+#EXTINF:-1 tvg-chno="12" tvg-name="3sat HD" tvg-id="3sat.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/3sathd.png",3sat HD
+rtp://87.141.215.251@232.0.20.2:10000
+
+#EXTINF:-1 tvg-chno="14" tvg-name="n-tv SD" tvg-id="ntv.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ntv.png",n-tv
+rtp://87.141.215.251@232.0.10.111:10000
+
+#EXTINF:-1 tvg-chno="15" tvg-name="phoenix HD" tvg-id="phoenix.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/phoenixhd.png",phoenix HD
+rtp://87.141.215.251@232.0.20.116:10000
+
+#EXTINF:-1 tvg-chno="17" tvg-name="zdf_neo HD" tvg-id="ZDFneo.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfneohd.png",zdf_neo HD
+rtp://87.141.215.251@232.0.20.236:10000
+
+#EXTINF:-1 tvg-chno="21" tvg-name="BR Süd HD" tvg-id="BR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/brhd.png",BR Süd HD
+rtp://87.141.215.251@232.0.20.26:10000
+
+#EXTINF:-1 tvg-chno="25" tvg-name="hr HD" tvg-id="HR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/hrhd.png",hr HD
+rtp://87.141.215.251@232.0.20.71:10000
+
+#EXTINF:-1 tvg-chno="27" tvg-name="MDR Sachsen HD" tvg-id="MDRS-Anhalt.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
+rtp://87.141.215.251@232.0.20.93:10000
+
+#EXTINF:-1 tvg-chno="29" tvg-name="NDR HD" tvg-id="ndr.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndrhd.png",NDR HD
+rtp://87.141.215.251@232.0.20.104:10000
+
+#EXTINF:-1 tvg-chno="31" tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
+rtp://87.141.215.251@232.0.20.129:10000
+
+#EXTINF:-1 tvg-chno="36" tvg-name="SR HD" tvg-id="SRFernsehen.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/srhd.png",SR HD
+rtp://87.141.215.251@232.0.20.200:10000
+
+#EXTINF:-1 tvg-chno="37" tvg-name="SWR BW HD" tvg-id="SWR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swrhd.png",SWR BW HD
+rtp://87.141.215.251@232.0.20.202:10000
+
+#EXTINF:-1 tvg-chno="39" tvg-name="WDR HD" tvg-id="WDR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdrhd.png",WDR HD
+rtp://87.141.215.251@232.0.20.222:10000
+
+#EXTINF:-1 tvg-chno="55" tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/artehd.png",ARTE HD
+rtp://87.141.215.251@232.0.20.10:10000
+
+#EXTINF:-1 tvg-chno="56" tvg-name="ONE HD" tvg-id="One.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/onehd.png",ONE HD
+rtp://87.141.215.251@232.0.20.49:10000
+
+#EXTINF:-1 tvg-chno="69" tvg-name="ProSieben MAXX SD" tvg-id="ProSiebenMaxx.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/prosiebenmaxx.png",ProSieben MAXX
+rtp://87.141.215.251@232.0.10.122:10000
+
+#EXTINF:-1 tvg-chno="70" tvg-name="NITRO SD" tvg-id="RTLNitro.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/nitro.png",NITRO
+rtp://87.141.215.251@232.0.10.143:10000
+
+#EXTINF:-1 tvg-chno="71" tvg-name="RTLplus SD" tvg-id="RTLPlus.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtlplus.png",RTLplus
+rtp://87.141.215.251@232.0.10.240:10000
+
+#EXTINF:-1 tvg-chno="73" tvg-name="SAT.1 GOLD SD" tvg-id="Sat1Gold.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1gold.png",SAT.1 GOLD
+rtp://87.141.215.251@232.0.10.149:10000
+
+#EXTINF:-1 tvg-chno="75" tvg-name="sixx SD" tvg-id="Sixx.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sixx.png",sixx
+rtp://87.141.215.251@232.0.10.157:10000
+
+#EXTINF:-1 tvg-chno="77" tvg-name="TOGGO plus SD" tvg-id="TOGGOplus.de" group-title="MagentaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ToggoPlus_Logo_2019.svg/640px-ToggoPlus_Logo_2019.svg.png",TOGGO plus
+rtp://87.141.215.251@232.0.11.7:10000
+
+#EXTINF:-1 tvg-chno="78" tvg-name="VOXup SD" tvg-id="VOXup.de" group-title="MagentaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/75/Voxup_HD_Logo_2019.svg/500px-Voxup_HD_Logo_2019.svg.png",VOXup
+rtp://87.141.215.251@232.0.10.239:10000
+
+#EXTINF:-1 tvg-chno="80" tvg-name="ARD-alpha HD" tvg-id="ARD-alpha.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ardalpha.png",ARD-alpha HD
+rtp://87.141.215.251@232.0.20.9:10000
+
+#EXTINF:-1 tvg-chno="89" tvg-name="Kabel Eins Doku SD" tvg-id="KabelEinsDoku.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/kabeleinsdoku.png",Kabel Eins Doku
+rtp://87.141.215.251@232.0.11.2:10000
+
+#EXTINF:-1 tvg-chno="91" tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tagesschau24hd.png",tagesschau24 HD
+rtp://87.141.215.251@232.0.20.205:10000
+
+#EXTINF:-1 tvg-chno="93" tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+rtp://87.141.215.251@232.0.20.237:10000
+
+#EXTINF:-1 tvg-name="WELT HD" tvg-id="WELT.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT HD
+pipe://ffmpeg -loglevel fatal -i http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8 -vcodec copy -acodec copy -metadata service_name=WELT\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="TVO HD" tvg-id="tvo.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png",TVO HD
+pipe://ffmpeg -loglevel fatal -i https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=TVO\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
+pipe://ffmpeg -loglevel fatal -i https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8 -vcodec copy -acodec copy -metadata service_name=Franken\ Fernsehen -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Servus TV HD" tvg-id="ServusHD.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",Servus TV HD
+pipe://ffmpeg -loglevel fatal -i https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8 -vcodec copy -acodec copy -metadata service_name=Servus\ TV\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="TV Mainfranken HD" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png",TV Mainfranken HD
+pipe://ffmpeg -loglevel fatal -i https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=TV\ Mainfranken\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="RFO HD" tvg-id="Oberbayern.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO HD
+pipe://ffmpeg -loglevel fatal -i https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=RFO\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Allgäu TV HD" group-title="IPTV" tvg-logo="https://www.adfc-kempten.de/fileadmin/user_upload/kv-kempten-oberallgaeu/Bilder/Logos/allgaeu-tv-logo.png",Allgäu TV HD
+pipe://ffmpeg -loglevel fatal -i https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Allgäu\ TV\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
+pipe://ffmpeg -loglevel fatal -i https://ma.anixa.tv/clips/stream/anixehd/index.m3u8 -vcodec copy -acodec copy -metadata service_name=ANIXE\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
+
+#EXTINF:-1 tvg-name="Nickelodeon HD" tvg-id="Nick.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon HD
+pipe://ffmpeg -loglevel fatal -i http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=Nickelodeon\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
