@@ -1,0 +1,42 @@
+#EXTM3U
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",antenne BAYERN
+http://stream.antenne.de/antenne/stream/mp3
+
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",BAYERN 1
+https://streams.br.de/bayern1fran_2.m3u
+
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",BAYERN 2
+https://streams.br.de/bayern2nord_2.m3u
+
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png",BAYERN 3
+https://streams.br.de/bayern3_2.m3u
+
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png",BR-KLASSIK
+https://streams.br.de/br-klassik_3.m3u
+
+#EXTINF:-1 radio=true tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Radio_Bamberg_Logo.svg/320px-Radio_Bamberg_Logo.svg.png",Radio Bamberg
+http://www.radio-bamberg.de/storage/download/6240680/radio-bamberg.m3u
+
+#EXTINF:-1 radio=true tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hit_Radio_N1_Logo.svg/320px-Hit_Radio_N1_Logo.svg.png",Hit Radio N1
+http://webstream.hitradion1.de/hitradion1
+
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1live.png",1LIVE
+https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/master.m3u8
+
+#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrklassik.png",mdr KLASSIK
+http://c22033-l.i.core.cdn.streamfarm.net/22008mdrklassik/live/3087mdrklassik/live_de_128.mp3
+
+#EXTINF:-1 radio=true tvg-logo="",ShoutedFM - mth.House
+http://house.mthn.net:8500
+
+#EXTINF:-1 radio=true tvg-logo="",ShoutedFM - mth.Electro
+http://electro.mthn.net:8400
+
+#EXTINF:-1 radio=true tvg-logo="",ShoutedFM - mth.Club
+http://club.mthn.net:8200
+
+#EXTINF:-1 radio=true tvg-logo="https://api.somafm.com/img/lush120.jpg",SomaFM - Lush
+http://somafm.com/m3u/lush130.m3u
+
+#EXTINF:-1 radio=true tvg-logo="https://api.somafm.com/img/groovesalad120.png",SomaFM - Groove Salad
+http://somafm.com/m3u/groovesalad130.m3u
