@@ -41,65 +41,65 @@ rtp://87.141.215.251@232.0.20.116:10000
 #EXTINF:-1 tvg-chno="14" tvg-name="zdf_neo HD" tvg-id="ZDFneo.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfneohd.png",zdf_neo HD
 rtp://87.141.215.251@232.0.20.236:10000
 
-#EXTINF:-1 tvg-chno="21" tvg-name="BR Süd HD" tvg-id="BR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/brhd.png",BR Süd HD
+#EXTINF:-1 tvg-chno="15" tvg-name="BR Süd HD" tvg-id="BR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/brhd.png",BR Süd HD
 rtp://87.141.215.251@232.0.20.26:10000
 
-#EXTINF:-1 tvg-chno="15" tvg-name="hr HD" tvg-id="HR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/hrhd.png",hr HD
+#EXTINF:-1 tvg-chno="16" tvg-name="hr HD" tvg-id="HR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/hrhd.png",hr HD
 rtp://87.141.215.251@232.0.20.71:10000
 
-#EXTINF:-1 tvg-chno="16" tvg-name="MDR Sachsen HD" tvg-id="MDRS-Anhalt.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
+#EXTINF:-1 tvg-chno="17" tvg-name="MDR Sachsen HD" tvg-id="MDRS-Anhalt.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/mdrhd.png",MDR Sachsen HD
 rtp://87.141.215.251@232.0.20.93:10000
 
-#EXTINF:-1 tvg-chno="17" tvg-name="NDR HD" tvg-id="ndr.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndrhd.png",NDR HD
+#EXTINF:-1 tvg-chno="18" tvg-name="NDR HD" tvg-id="ndr.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ndrhd.png",NDR HD
 rtp://87.141.215.251@232.0.20.104:10000
 
-#EXTINF:-1 tvg-chno="18" tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
+#EXTINF:-1 tvg-chno="19" tvg-name="rbb Berlin HD" tvg-id="rbbBerlin.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rbbhd.png",rbb Berlin HD
 rtp://87.141.215.251@232.0.20.129:10000
 
-#EXTINF:-1 tvg-chno="19" tvg-name="SR HD" tvg-id="SRFernsehen.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/srhd.png",SR HD
+#EXTINF:-1 tvg-chno="20" tvg-name="SR HD" tvg-id="SRFernsehen.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/srhd.png",SR HD
 rtp://87.141.215.251@232.0.20.200:10000
 
-#EXTINF:-1 tvg-chno="20" tvg-name="SWR BW HD" tvg-id="SWR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swrhd.png",SWR BW HD
+#EXTINF:-1 tvg-chno="21" tvg-name="SWR BW HD" tvg-id="SWR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/swrhd.png",SWR BW HD
 rtp://87.141.215.251@232.0.20.202:10000
 
-#EXTINF:-1 tvg-chno="21" tvg-name="WDR HD" tvg-id="WDR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdrhd.png",WDR HD
+#EXTINF:-1 tvg-chno="22" tvg-name="WDR HD" tvg-id="WDR.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/wdrhd.png",WDR HD
 rtp://87.141.215.251@232.0.20.222:10000
 
-#EXTINF:-1 tvg-chno="22" tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/artehd.png",ARTE HD
+#EXTINF:-1 tvg-chno="23" tvg-name="ARTE HD" tvg-id="ARTE.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/artehd.png",ARTE HD
 rtp://87.141.215.251@232.0.20.10:10000
 
-#EXTINF:-1 tvg-chno="23" tvg-name="ONE HD" tvg-id="One.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/onehd.png",ONE HD
+#EXTINF:-1 tvg-chno="24" tvg-name="ONE HD" tvg-id="One.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/onehd.png",ONE HD
 rtp://87.141.215.251@232.0.20.49:10000
 
-#EXTINF:-1 tvg-chno="24" tvg-name="ProSieben MAXX SD" tvg-id="ProSiebenMaxx.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/prosiebenmaxx.png",ProSieben MAXX
+#EXTINF:-1 tvg-chno="25" tvg-name="ProSieben MAXX SD" tvg-id="ProSiebenMaxx.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/prosiebenmaxx.png",ProSieben MAXX
 rtp://87.141.215.251@232.0.10.122:10000
 
-#EXTINF:-1 tvg-chno="25" tvg-name="NITRO SD" tvg-id="RTLNitro.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/nitro.png",NITRO
+#EXTINF:-1 tvg-chno="26" tvg-name="NITRO SD" tvg-id="RTLNitro.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/nitro.png",NITRO
 rtp://87.141.215.251@232.0.10.143:10000
 
-#EXTINF:-1 tvg-chno="26" tvg-name="RTLplus SD" tvg-id="RTLPlus.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtlplus.png",RTLplus
+#EXTINF:-1 tvg-chno="27" tvg-name="RTLplus SD" tvg-id="RTLPlus.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/rtlplus.png",RTLplus
 rtp://87.141.215.251@232.0.10.240:10000
 
-#EXTINF:-1 tvg-chno="27" tvg-name="SAT.1 GOLD SD" tvg-id="Sat1Gold.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1gold.png",SAT.1 GOLD
+#EXTINF:-1 tvg-chno="28" tvg-name="SAT.1 GOLD SD" tvg-id="Sat1Gold.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sat1gold.png",SAT.1 GOLD
 rtp://87.141.215.251@232.0.10.149:10000
 
-#EXTINF:-1 tvg-chno="28" tvg-name="sixx SD" tvg-id="Sixx.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sixx.png",sixx
+#EXTINF:-1 tvg-chno="29" tvg-name="sixx SD" tvg-id="Sixx.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/sixx.png",sixx
 rtp://87.141.215.251@232.0.10.157:10000
 
-#EXTINF:-1 tvg-chno="29" tvg-name="TOGGO plus SD" tvg-id="TOGGOplus.de" group-title="MagentaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ToggoPlus_Logo_2019.svg/640px-ToggoPlus_Logo_2019.svg.png",TOGGO plus
+#EXTINF:-1 tvg-chno="30" tvg-name="TOGGO plus SD" tvg-id="TOGGOplus.de" group-title="MagentaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/ToggoPlus_Logo_2019.svg/640px-ToggoPlus_Logo_2019.svg.png",TOGGO plus
 rtp://87.141.215.251@232.0.11.7:10000
 
-#EXTINF:-1 tvg-chno="30" tvg-name="VOXup SD" tvg-id="VOXup.de" group-title="MagentaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/75/Voxup_HD_Logo_2019.svg/500px-Voxup_HD_Logo_2019.svg.png",VOXup
+#EXTINF:-1 tvg-chno="31" tvg-name="VOXup SD" tvg-id="VOXup.de" group-title="MagentaTV" tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/7/75/Voxup_HD_Logo_2019.svg/500px-Voxup_HD_Logo_2019.svg.png",VOXup
 rtp://87.141.215.251@232.0.10.239:10000
 
-#EXTINF:-1 tvg-chno="31" tvg-name="ARD-alpha HD" tvg-id="ARD-alpha.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ardalpha.png",ARD-alpha HD
+#EXTINF:-1 tvg-chno="32" tvg-name="ARD-alpha HD" tvg-id="ARD-alpha.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/ardalpha.png",ARD-alpha HD
 rtp://87.141.215.251@232.0.20.9:10000
 
-#EXTINF:-1 tvg-chno="32" tvg-name="Kabel Eins Doku SD" tvg-id="KabelEinsDoku.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/kabeleinsdoku.png",Kabel Eins Doku
+#EXTINF:-1 tvg-chno="33" tvg-name="Kabel Eins Doku SD" tvg-id="KabelEinsDoku.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/kabeleinsdoku.png",Kabel Eins Doku
 rtp://87.141.215.251@232.0.11.2:10000
 
-#EXTINF:-1 tvg-chno="33" tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tagesschau24hd.png",tagesschau24 HD
+#EXTINF:-1 tvg-chno="34" tvg-name="tagesschau24 HD" tvg-id="tagesschau24.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/tagesschau24hd.png",tagesschau24 HD
 rtp://87.141.215.251@232.0.20.205:10000
 
-#EXTINF:-1 tvg-chno="34" tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
+#EXTINF:-1 tvg-chno="35" tvg-name="ZDFinfo HD" tvg-id="ZDFinfo.de" group-title="MagentaTV" tvg-logo="https://raw.githubusercontent.com/jnk22/entertain-iptv/master/logos/tv/zdfinfohd.png",ZDFinfo HD
 rtp://87.141.215.251@232.0.20.237:10000
