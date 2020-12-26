@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-chno="36" tvg-name="WELT HD" tvg-id="WELT.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT HD
 pipe://ffmpeg -loglevel fatal -i http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8 -vcodec copy -acodec copy -metadata service_name=WELT\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 
