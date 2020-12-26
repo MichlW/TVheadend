@@ -1,26 +1,23 @@
-#EXTINF:-1 tvg-chno="35" tvg-name="WELT HD" tvg-id="WELT.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT HD
+#EXTINF:-1 tvg-chno="35" tvg-name="WELT HD" tvg-id="WELT.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/welt.png",WELT HD
 pipe://ffmpeg -loglevel fatal -i http://live2weltcms-lh.akamaihd.net/i/Live2WeltCMS_1@444563/index_1_av-b.m3u8 -vcodec copy -acodec copy -metadata service_name=WELT\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 
-#EXTINF:-1 tvg-chno="36" tvg-name="TVO HD" tvg-id="tvo.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png",TVO HD
+#EXTINF:-1 tvg-chno="36" tvg-name="TVO HD" tvg-id="tvo.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo.png",TVO HD
 pipe://ffmpeg -loglevel fatal -i https://tvoberfranken.iptv-playoutcenter.de/tvoberfranken/tvoberfranken.stream_1/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=TVO\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 
-#EXTINF:-1 tvg-chno="37" tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
+#EXTINF:-1 tvg-chno="37" tvg-name="Franken Fernsehen" tvg-id="FrankenTV.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/frankenfernsehen.png",Franken Fernsehen
 pipe://ffmpeg -loglevel fatal -i https://s3.welocal.world/frankenfernsehen/media/191627/videos/hls.m3u8 -vcodec copy -acodec copy -metadata service_name=Franken\ Fernsehen -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 
-#EXTINF:-1 tvg-chno="38" tvg-name="Servus TV HD" tvg-id="ServusHD.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",Servus TV HD
+#EXTINF:-1 tvg-chno="38" tvg-name="Servus TV HD" tvg-id="ServusHD.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/servustvhd.png",Servus TV HD
 pipe://ffmpeg -loglevel fatal -i https://rbmn-live.akamaized.net/hls/live/2002830/geoSTVDEweb/master.m3u8 -vcodec copy -acodec copy -metadata service_name=Servus\ TV\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 
-#EXTINF:-1 tvg-chno="39" tvg-name="TV Mainfranken HD" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvmainfranken.png",TV Mainfranken HD
-pipe://ffmpeg -loglevel fatal -i https://stream01.stream.welocal.world/stream/tvm/ngrp:tvm.stream_all/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=TV\ Mainfranken\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
-
-#EXTINF:-1 tvg-chno="40" tvg-name="RFO HD" tvg-id="Oberbayern.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO HD
+#EXTINF:-1 tvg-chno="40" tvg-name="RFO HD" tvg-id="Oberbayern.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfo.png",RFO HD
 pipe://ffmpeg -loglevel fatal -i https://stream01.stream.welocal.world/stream/fhd-rfo_66876/ngrp:stream_all/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=RFO\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_sdtv -f mpegts pipe:1
 
-#EXTINF:-1 tvg-chno="41" tvg-name="Allgäu TV HD" group-title="IPTV" tvg-logo="https://www.adfc-kempten.de/fileadmin/user_upload/kv-kempten-oberallgaeu/Bilder/Logos/allgaeu-tv-logo.png",Allgäu TV HD
+#EXTINF:-1 tvg-chno="41" tvg-name="Allgäu TV HD" group-title="FreeTV" tvg-logo="https://www.adfc-kempten.de/fileadmin/user_upload/kv-kempten-oberallgaeu/Bilder/Logos/allgaeu-tv-logo.png",Allgäu TV HD
 pipe://ffmpeg -loglevel fatal -i https://stream01.stream.welocal.world/stream/alg/ngrp:alg.stream_all/playlist.m3u8 -vcodec copy -acodec copy -metadata service_name=Allgäu\ TV\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 
-#EXTINF:-1 tvg-chno="42" tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
+#EXTINF:-1 tvg-chno="42" tvg-name="ANIXE HD" tvg-id="AnixeSerie.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/anixehd.png",ANIXE HD
 pipe://ffmpeg -loglevel fatal -i https://ma.anixa.tv/clips/stream/anixehd/index.m3u8 -vcodec copy -acodec copy -metadata service_name=ANIXE\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
 
-#EXTINF:-1 tvg-chno="43" tvg-name="Nickelodeon HD" tvg-id="Nick.de" group-title="IPTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon HD
+#EXTINF:-1 tvg-chno="43" tvg-name="Nickelodeon HD" tvg-id="Nick.de" group-title="FreeTV" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/nickelodeon.png",Nickelodeon HD
 pipe://ffmpeg -loglevel fatal -i http://unilivemtveu-lh.akamaihd.net/i/nickde_1@448749/index_3500_av-p.m3u8 -vcodec copy -acodec copy -metadata service_name=Nickelodeon\ HD -metadata service_provider=IPTV -mpegts_service_type advanced_codec_digital_hdtv -f mpegts pipe:1
