@@ -24,7 +24,7 @@ pipe://ffmpeg -loglevel fatal -i http://webstream.hitradion1.de/hitradion1 -vn -
 pipe://ffmpeg -loglevel fatal -i https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/master.m3u8 -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=Westdeutscher\ Rundfunk -metadata service_name=1LIVE -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrklassik.png",mdr KLASSIK
-pipe://ffmpeg -loglevel fatal -i http://avw.mdr.de/streams/284350-0_aac_high.m3u -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=MITTELDEUTSCHER\ RUNDFUNK -metadata service_name=mdr\ KLASSIK -f mpegts -mpegts_service_type digital_radio pipe:1
+pipe://ffmpeg -loglevel fatal -i http://mdr-284350-0.cast.mdr.de/mdr/284350/0/aac/high/stream.aac -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=MITTELDEUTSCHER\ RUNDFUNK -metadata service_name=mdr\ KLASSIK -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="",ShoutedFM - mth.House
 pipe://ffmpeg -loglevel fatal -i http://house.mthn.net:8500 -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=ShoutedFM -metadata service_name=mth.House -f mpegts -mpegts_service_type digital_radio pipe:1
