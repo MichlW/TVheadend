@@ -3,7 +3,7 @@
 http://stream.antenne.de/antenne/stream/mp3
 
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",BAYERN 1
-https://streams.br.de/bayern1fran_2.m3u
+pipe://ffmpeg -loglevel fatal -i https://streams.br.de/bayern1fran_2.m3u -vn -acodec aac -flags +global_header -strict -2 -metadata service_provider=Bayerischer\ Rundfunk -metadata service_name=BAYERN\ 1 -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",BAYERN 2
 https://streams.br.de/bayern2nord_2.m3u
