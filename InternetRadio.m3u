@@ -1,42 +1,42 @@
 #EXTM3U
-#EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/antennebayern.png",antenne BAYERN
-http://stream.antenne.de/antenne/stream/mp3
+#EXTINF:-1 radio=true tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Antenne-bayern-logo.png/320px-Antenne-bayern-logo.png",antenne bayern
+pipe://ffmpeg -loglevel fatal -i http://stream.antenne.de/antenne/stream/mp3 -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=ANTENNE\ BAYERN -metadata service_name=antenne\ bayern -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",BAYERN 1
 pipe://ffmpeg -loglevel fatal -i https://br-br1-franken.cast.addradio.de/br/br1/franken/mp3/mid -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=Bayerischer\ Rundfunk -metadata service_name=BAYERN\ 1 -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",BAYERN 2
-https://streams.br.de/bayern2nord_2.m3u
+pipe://ffmpeg -loglevel fatal -i https://br-br2-nord.cast.addradio.de/br/br2/nord/mp3/mid -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=Bayerischer\ Rundfunk -metadata service_name=BAYERN\ 2 -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern3.png",BAYERN 3
-https://streams.br.de/bayern3_2.m3u
+pipe://ffmpeg -loglevel fatal -i https://br-br3-live.cast.addradio.de/br/br3/live/mp3/mid -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=Bayerischer\ Rundfunk -metadata service_name=BAYERN\ 3 -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/brklassik.png",BR-KLASSIK
-https://streams.br.de/br-klassik_3.m3u
+pipe://ffmpeg -loglevel fatal -i https://br-brklassik-live.cast.addradio.de/br/brklassik/live/mp3/high -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=Bayerischer\ Rundfunk -metadata service_name=BR-KLASSIK -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Radio_Bamberg_Logo.svg/320px-Radio_Bamberg_Logo.svg.png",Radio Bamberg
-http://www.radio-bamberg.de/storage/download/6240680/radio-bamberg.m3u
+pipe://ffmpeg -loglevel fatal -i http://webstream.radio-bamberg.de/radio-bamberg.mp3 -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=Funkhaus\ Bamberg -metadata service_name=Radio\ Bamberg -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Hit_Radio_N1_Logo.svg/320px-Hit_Radio_N1_Logo.svg.png",Hit Radio N1
-http://webstream.hitradion1.de/hitradion1
+pipe://ffmpeg -loglevel fatal -i http://webstream.hitradion1.de/hitradion1 -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=Funkhaus\ Nürnberg -metadata service_name=Hit\ Radio\ N1 -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/1live.png",1LIVE
-https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/master.m3u8
+pipe://ffmpeg -loglevel fatal -i https://1liveuni-lh.akamaihd.net/i/1LIVE_HDS@179577/master.m3u8 -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=Westdeutscher\ Rundfunk -metadata service_name=1LIVE -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/mdrklassik.png",mdr KLASSIK
-http://c22033-l.i.core.cdn.streamfarm.net/22008mdrklassik/live/3087mdrklassik/live_de_128.mp3
+pipe://ffmpeg -loglevel fatal -i http://c22033-l.i.core.cdn.streamfarm.net/22008mdrklassik/live/3087mdrklassik/live_de_128.mp3 -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=MITTELDEUTSCHER\ RUNDFUNK -metadata service_name=mdr\ KLASSIK -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="",ShoutedFM - mth.House
-http://house.mthn.net:8500
+pipe://ffmpeg -loglevel fatal -i http://house.mthn.net:8500 -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=ShoutedFM -metadata service_name=mth.House -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="",ShoutedFM - mth.Electro
-http://electro.mthn.net:8400
+pipe://ffmpeg -loglevel fatal -i http://electro.mthn.net:8400 -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=ShoutedFM -metadata service_name=mth.Electro -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="",ShoutedFM - mth.Club
-http://club.mthn.net:8200
+pipe://ffmpeg -loglevel fatal -i http://club.mthn.net:8200 -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=ShoutedFM -metadata service_name=mth.Club -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://api.somafm.com/img/lush120.jpg",SomaFM - Lush
-http://somafm.com/m3u/lush130.m3u
+pipe://ffmpeg -loglevel fatal -i http://somafm.com/m3u/lush130.m3u -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=SomaFM -metadata service_name=Lush -f mpegts -mpegts_service_type digital_radio pipe:1
 
 #EXTINF:-1 radio=true tvg-logo="https://api.somafm.com/img/groovesalad120.png",SomaFM - Groove Salad
-http://somafm.com/m3u/groovesalad130.m3u
+pipe://ffmpeg -loglevel fatal -i http://somafm.com/m3u/groovesalad130.m3u -vn -acodec copy -flags +global_header -strict -2 -metadata service_provider=SomaFM -metadata service_name=GrooveSalad -f mpegts -mpegts_service_type digital_radio pipe:1
