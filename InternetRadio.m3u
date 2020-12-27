@@ -3,7 +3,7 @@
 http://stream.antenne.de/antenne/stream/mp3
 
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern1.png",BAYERN 1
-https://br-br1-franken.cast.addradio.de/br/br1/franken/mp3/mid
+https://streams.br.de/bayern1fran_2.m3u
 
 #EXTINF:-1 radio=true tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/radio/bayern2.png",BAYERN 2
 https://streams.br.de/bayern2nord_2.m3u
