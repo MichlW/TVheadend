@@ -10,7 +10,7 @@ https://ricxepg.nl/epg_data/rytecDE_Basic.gz (EPG)
 MagentaTV multicast playlist: [MagentaTV.m3u](https://raw.githubusercontent.com/MichlW/TVheadend/main/MagentaTV.m3u)  
 FreeTV playlist: [FreeTV.m3u](https://raw.githubusercontent.com/MichlW/TVheadend/main/FreeTV.m3u)
 
-**Features/Todo**
+**Features**
 - [x] Sorted out SD and not needed channels
 - [x] Display channel logos
 - [x] Sorted by channel numbers
@@ -19,7 +19,9 @@ FreeTV playlist: [FreeTV.m3u](https://raw.githubusercontent.com/MichlW/TVheadend
 ## Internet Radio
 Playlist: [InternetRadio.m3u](https://raw.githubusercontent.com/MichlW/TVheadend/main/InternetRadio.m3u)
 
-**Features/Todo**
-- [x] Channel logos
-- [x] Channel numbers
+**Features**
+- [x] Display channel logos
+- [x] Sorted by channel numbers
+
+**Todo**
 - [ ] Display RadioText
