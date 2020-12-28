@@ -1,9 +1,9 @@
 # TVheadend playlists
 
 ## Sources (Thanks!)
-https://db.iptv.blog/multicastadressliste (Channels)
-https://github.com/jnk22/entertain-iptv (Channels and logos)
-https://github.com/jnk22/kodinerds-iptv (Channels and logos)
+https://db.iptv.blog/multicastadressliste (Channels)  
+https://github.com/jnk22/entertain-iptv (Channels and logos)  
+https://github.com/jnk22/kodinerds-iptv (Channels and logos)  
 https://ricxepg.nl/epg_data/rytecDE_Basic.gz (EPG)
 
 ## IPTV
