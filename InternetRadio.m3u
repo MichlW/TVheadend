@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 radio=true tvg-chno="1" group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Antenne-bayern-logo.png/320px-Antenne-bayern-logo.png",antenne bayern
-http://stream.antenne.de/antenne/stream/mp3
+http://play.antenne.de/antenne.m3u
 
 #EXTINF:-1 radio=true tvg-chno="2" group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Radio_Bamberg_Logo.svg/320px-Radio_Bamberg_Logo.svg.png",Radio Bamberg
 http://webstream.radio-bamberg.de/radio-bamberg.mp3
