@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 radio=true tvg-chno="1" group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Antenne-bayern-logo.png/320px-Antenne-bayern-logo.png",antenne bayern
-http://stream.antenne.de/antenne
+http://stream.antenne.de/antenne/stream/mp3
 
 #EXTINF:-1 radio=true tvg-chno="2" group-title="Radio" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Radio_Bamberg_Logo.svg/320px-Radio_Bamberg_Logo.svg.png",Radio Bamberg
 http://webstream.radio-bamberg.de/radio-bamberg.mp3
@@ -32,11 +32,8 @@ http://house.mthn.net:8500
 #EXTINF:-1 radio=true tvg-chno="11" group-title="Radio" tvg-logo="https://d3kle7qwymxpcy.cloudfront.net/images/broadcasts/59/a3/3335/c175.png",ShoutedFM - mth.Electro
 http://electro.mthn.net:8400
 
-#EXTINF:-1 radio=true tvg-chno="12" group-title="Radio" tvg-logo="https://pbs.twimg.com/profile_images/516245285/twitter_213_400x400.jpg",ShoutedFM - mth.Club
-http://club.mthn.net:8200
-
-#EXTINF:-1 radio=true tvg-chno="13" group-title="Radio" tvg-logo="https://api.somafm.com/img/lush120.jpg",SomaFM - Lush
+#EXTINF:-1 radio=true tvg-chno="12" group-title="Radio" tvg-logo="https://api.somafm.com/img/lush120.jpg",SomaFM - Lush
 http://ice2.somafm.com/lush-128-aac
 
-#EXTINF:-1 radio=true tvg-chno="14" group-title="Radio" tvg-logo="https://api.somafm.com/img/groovesalad120.png",SomaFM - Groove Salad
+#EXTINF:-1 radio=true tvg-chno="13" group-title="Radio" tvg-logo="https://api.somafm.com/img/groovesalad120.png",SomaFM - Groove Salad
 http://ice4.somafm.com/groovesalad-128-aac
