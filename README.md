@@ -15,4 +15,4 @@ Playlist: https://raw.githubusercontent.com/MichlW/TVheadend/main/InternetRadio.
 **Features/Todo**
 - [x] Channel logos
 - [x] Channel numbers
-- [ ] RDS data
+- [ ] Display RadioText
