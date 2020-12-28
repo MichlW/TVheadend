@@ -1,8 +1,8 @@
 # TVheadend playlists
 
 ## IPTV
-MagentaTV: https://raw.githubusercontent.com/MichlW/TVheadend/main/MagentaTV.m3u  
-FreeTV: https://raw.githubusercontent.com/MichlW/TVheadend/main/FreeTV.m3u
+MagentaTV multicast playlist: https://raw.githubusercontent.com/MichlW/TVheadend/main/MagentaTV.m3u  
+FreeTV playlist: https://raw.githubusercontent.com/MichlW/TVheadend/main/FreeTV.m3u
 
 **Todo**
 - [x] Channel logos
