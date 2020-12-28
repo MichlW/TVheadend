@@ -7,5 +7,5 @@ FreeTV: https://raw.githubusercontent.com/MichlW/TVheadend/main/FreeTV.m3u
 ## Internet radio stations
 Playlist: https://raw.githubusercontent.com/MichlW/TVheadend/main/InternetRadio.m3u
 
-[x] Channel logos
-[ ] RDS data
+- [x] Channel logos
+- [ ] RDS data
